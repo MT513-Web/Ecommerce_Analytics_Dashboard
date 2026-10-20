@@ -36,9 +36,10 @@ An interactive, production-grade Streamlit web application designed for automate
 2. Install dependencies:
 ```bash
 pip install -r requirements.txt
-
-Launch the Streamlit application:
- streamlit run app.py 
+```
+3. Launch the Streamlit application:
+```bash
+streamlit run app.py 
  ```
 
 
